@@ -247,15 +247,13 @@ ul li a:hover {
   text-decoration: none;
   color: #fff;
 }
-
-.icons ion-icon {
+.icons a i {
   color: #fffd;
   font-size: 30px;
   padding-left: 14px;
-  padding-top: 5px;
   transition: 0.3s ease;
 }
 
-.icons ion-icon:hover {
+.icons a i:hover {
   color: #ff7200;
 }
